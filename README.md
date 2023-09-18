@@ -1,5 +1,6 @@
 # Youtube_UI_Clone
-### Certainly! Let's explain how different sections of a YouTube clone can be created using HTML and CSS without providing the actual code:
+### Hosted Link: https://divyanshrajpoot9.github.io/Youtube_UI_Clone/
+### Explain how different sections of a YouTube clone can be created using HTML and CSS without providing the actual code:
 ![Screenshot 2023-09-18 211316](https://github.com/divyanshrajpoot9/Youtube_UI_Clone/assets/114856467/17bcbc11-af12-42eb-8bd9-290e00d9b6db)
 1. Header:
 
